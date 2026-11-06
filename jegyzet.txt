@@ -1,0 +1,18 @@
+jegyzet:
+
+
+1 mindig index az eslö
+
+
+vannak cimek hedin gjele h
+
+vannak articlek jele artiicle
+
+
+egyedi azonosito camel case iras kis nagy betu
+
+
+styl és ccss
+
+
+
