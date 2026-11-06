@@ -15,4 +15,29 @@ egyedi azonosito camel case iras kis nagy betu
 styl és ccss
 
 
+verzio kzeles: 
 
+1 megnyitod a foldert
+
+2 megynitsz egy terminalt
+
+3 a terminálban plusz jel lenyitod GIT BASH ezt kell kiválasztani
+
+4 a fájlt elenörizni hogy helyes az elérési ut
+
+5 A verzimrendszert inicializáljuk  ##  git init  ##
+
+6 (A GITEN KELL EGY UJ REPO)
+
+7 git remote add origin #URL#  
+
+8 git branch -M main
+
+
+rendeszeresen használt:
+
+git add .   csomagol
+
+git commit -m "1verzio dhepolap"   cimzés
+
+git comit -m "1verzio dhepolap"    feltöltes
