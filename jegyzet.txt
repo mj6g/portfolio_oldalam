@@ -40,4 +40,6 @@ git add .   csomagol
 
 git commit -m "1verzio dhepolap"   cimzés
 
-git comit -m "1verzio dhepolap"    feltöltes
+git push -u origin main    feltöltes
+
+aztan csak git push
